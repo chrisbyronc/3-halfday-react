@@ -25,3 +25,20 @@ Agenda Today
 6. npx create-react-app
 7. Core React Concepts
 8. Working with Components
+
+
+What did you learn today?
+
+1. React Syntax
+2. Functional based components
+   1. return
+3. JSX
+   1. always needs a parent element
+   2. {}
+   3. className
+4. npx create-react-app
+5. npm start to run node server
+6. package.json
+7. props (a little)
+8. CDN links
+9.  Parent and child components
