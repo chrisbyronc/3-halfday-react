@@ -19,12 +19,24 @@
             // Create component
             // const Component = React.createElement('div', {}, ChildComponent)
 
+            function OtherComponent() {
+                return (
+                    <div>
+                        <h1>Hello JSX!</h1>
+                    </div>
+                )
+            }
+
             // Create component using JSX
             function Component() {
+                const basicMath = function(x, y) {
+                    return x + y
+                }
                 
                 return (
                 <div>
-                    <h1>Hello JSX!</h1>
+                    <OtherComponent />
+                    <div className="math">Basic Math: 2 + 2 = {basicMath(2, 2)}</div>
                 </div>
                 )
             }
