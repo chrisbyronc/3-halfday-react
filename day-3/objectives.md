@@ -41,3 +41,25 @@ Agenda Today
 9. Start on jeopardy lite exercise
 10. CORS, SSO lesson
 11. Q&A + Survey - https://www.surveymonkey.com/r/J3PSMDY
+
+
+
+What did we learn today?
+
+1. Component Lifecycle
+   1. componentDidMount()
+   2. componentDidUpdate()
+   3. componentWillUnmount()
+   4. More than these three lifecycle methods
+2. React Hooks
+   1. useState()
+   2. useContext()
+3. Map functions for arrays
+   1. unique keys
+4. Conditional Rendering
+   1. ternery operators
+   2. double ampersands &&
+   3. double bar ||
+5. Handling CORS errors
+6. setInterval and clearInterval
+7. new Date()
